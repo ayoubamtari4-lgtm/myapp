@@ -1,0 +1,12 @@
+{
+  "background_color": "#d72e2e",
+  "description": "mon application html",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "My APP TICKET",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "MAPS",
+  "start_url": "/",
+  "theme_color": "#731919"
+}
